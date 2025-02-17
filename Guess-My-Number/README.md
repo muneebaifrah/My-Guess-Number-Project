@@ -44,6 +44,9 @@ JavaScript: The game logic, including number generation, guess checking, score t
 
 To play the game locally:
 
+![Uploading image.png…]()
+
+
 ## Clone the Repository:
 
 bash
